@@ -30,7 +30,7 @@ VALOAI is a **real-time AI-driven aim assist** that leverages **object detection
 1. Install **Arduino Legacy IDE 1.8.19**  
 2. Install **USB Host Shield 2.0** libraries  
 3. Open `mouse/mouse.ino`  
-4. Modify these values to match your **mouse X and Y ID** (values from 0-9):  
+4. Modify these values to match your **mouse X,Y and Scroll ID** (values from 0-9):  
 
    ```cpp
    buttons = buf[0];
