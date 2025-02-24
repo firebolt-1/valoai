@@ -33,13 +33,10 @@ VALOAI is a **real-time AI-driven aim assist** that leverages **object detection
 4. Modify these values to match your **mouse X and Y ID** (values from 0-9):  
 
    ```cpp
-   xm = buf[];
-   ym = buf[];
-   scr = buf[];
    buttons = buf[0];
-   but_id = 0;
-   but_id <= 0;
-   but_id <<= 0;
+   xm = buf[1];
+   ym = buf[2];
+   scr = buf[3];
    ```
 
 5. Upload the script to your **Arduino Leonardo** and test until everything matches your mouse input  
