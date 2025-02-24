@@ -4,9 +4,9 @@ VALOAI is a **real-time AI-driven aim assist** that leverages **object detection
 
 > **Unlike other aim assists, which charge €5/month or €100 for lifetime access without offering any real advantages, VALOAI is completely FREE! <3**  
 
-> ⚠️ **For educational purposes only. The developers are not responsible for any misuse.**  
+> ⚠️ **For educational purposes only. The developers are not responsible for any misuse.**
 
-![capture](https://github.com/user-attachments/assets/193e24a1-9241-41e7-8945-7c08b959ca01)
+![capture](https://github.com/user-attachments/assets/a2f6f9f7-64ed-4b29-97c7-d3d3e02c27e4)
 
 ---
 
