@@ -25,7 +25,11 @@ https://github.com/user-attachments/assets/3e0021b0-3414-4e50-8b4d-94e76664d2dc
 
 ### 🖥️ System Requirements  
 - **Minimum**: GTX 1650  
-- **Recommended**: RTX 2060  
+- **Recommended**: RTX 2060
+  
+- Arduino Leonardo + USB Host Shield 2.0
+ ![477e8894-f1ee-4051-8c96-3f6bac8c704a](https://github.com/user-attachments/assets/4d442469-1229-4129-a570-1e8687aa03aa)
+
 
 ---
 
