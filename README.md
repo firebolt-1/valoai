@@ -64,9 +64,10 @@ https://github.com/user-attachments/assets/3e0021b0-3414-4e50-8b4d-94e76664d2dc
 5. Install additional dependencies:  
 
    ```bash
-   pip install pyserial  
-   pip install pywin32  
-   pip install keyboard  
+   pip install pyserial
+   pip install pywin32
+   pip install keyboard
+   pip install termcolor
    ```
 
 ---
