@@ -107,6 +107,12 @@ https://github.com/user-attachments/assets/3e0021b0-3414-4e50-8b4d-94e76664d2dc
 
 ---
 
+## How it works
+
+![Capture d'écran 2025-02-25 193636](https://github.com/user-attachments/assets/f145e481-d4cd-4ced-bf8d-9de3b88a9d37)
+
+---
+
 ## 🌍 Open Source & Contributions  
 
 This project is **open-source**, and contributions are welcome! Feel free to **fork, improve, and submit pull requests**.
