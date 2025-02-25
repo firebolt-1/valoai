@@ -21,6 +21,8 @@ VALOAI is a **real-time AI-driven aim assist** that leverages **object detection
 ✔ **Hardware-Based Execution** – Uses **Arduino Leonardo + USB Host Shield 2.0** 🔌  
 ✔ **Optimized for Performance** – CUDA-accelerated for fast, efficient processing 🚀  
 
+https://github.com/user-attachments/assets/40589e2b-ef78-4415-8554-1fc436d27130
+
 ### 🖥️ System Requirements  
 - **Minimum**: GTX 1650  
 - **Recommended**: RTX 2060  
