@@ -28,8 +28,7 @@ https://github.com/user-attachments/assets/3e0021b0-3414-4e50-8b4d-94e76664d2dc
 - **Recommended**: RTX 2060
   
 - Arduino Leonardo + USB Host Shield 2.0
- ![477e8894-f1ee-4051-8c96-3f6bac8c704a](https://github.com/user-attachments/assets/4d442469-1229-4129-a570-1e8687aa03aa)
-
+![Capture d'écran 2025-02-25 075118](https://github.com/user-attachments/assets/51a0505d-b65d-47da-85fb-3e47667b0480)
 
 ---
 
