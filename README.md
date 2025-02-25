@@ -27,7 +27,7 @@ https://github.com/user-attachments/assets/3e0021b0-3414-4e50-8b4d-94e76664d2dc
 - **Minimum**: GTX 1650  
 - **Recommended**: RTX 2060
   
-- Arduino Leonardo + USB Host Shield 2.0
+ Arduino Leonardo + USB Host Shield 2.0
 ![Capture d'écran 2025-02-25 075118](https://github.com/user-attachments/assets/51a0505d-b65d-47da-85fb-3e47667b0480)
 
 ---
