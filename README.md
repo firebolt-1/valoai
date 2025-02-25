@@ -72,6 +72,7 @@ https://github.com/user-attachments/assets/3e0021b0-3414-4e50-8b4d-94e76664d2dc
    pip install pywin32
    pip install keyboard
    pip install termcolor
+   pip install scipy==1.12.0
    ```
 
 ---
