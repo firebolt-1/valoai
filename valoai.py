@@ -22,7 +22,7 @@ ard = serial.Serial("COM3", 9600, writeTimeout=0)
 def calculatedistance(x, y):
     code = f"{x:.2f},{y:.2f}*"
     ard.write(str.encode(code))
-    time.sleep(0.03)
+    time.sleep(0.02)
 def windowcapture():
     hwnd = None
     wDC = win32gui.GetWindowDC(hwnd)
