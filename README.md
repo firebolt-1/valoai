@@ -47,7 +47,7 @@ https://github.com/user-attachments/assets/3e0021b0-3414-4e50-8b4d-94e76664d2dc
 5. Upload the script to your **Arduino Leonardo** and test until everything matches your mouse input  
 
 ### 🔹 2. Installing Dependencies  
-1. Install **Python 3.9** (recommended) or later  
+1. Install **Python 3.9.10** (recommended) or later  
 2. Install **CUDA 12.1**  
 3. Install **PyTorch** with CUDA 12.1 support:  
 
