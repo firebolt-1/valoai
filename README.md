@@ -123,3 +123,4 @@ This project is released under the **GNU General Public License v3.0**. See the 
 ---
 
 🔥 **VALOAI** 🔥  
+➡️ Constant refinement and testing are in progress to deliver the fastest response times. If you’d like to support further development, feel free to [Donate 💗](https://ko-fi.com/amilia2378/goal?g=0).
