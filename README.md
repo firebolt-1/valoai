@@ -26,6 +26,7 @@ https://github.com/user-attachments/assets/3e0021b0-3414-4e50-8b4d-94e76664d2dc
 ### 🖥️ System Requirements  
 - **Minimum**: RTX 2060
 - **Recommended**: RTX 3050
+- **GOD MOD**: RTX 4060 (lower time.sleep to 0.1 inside the .py)
   
 ---
 
