@@ -24,8 +24,8 @@ VALOAI is a **real-time AI-driven aim assist** that leverages **object detection
 https://github.com/user-attachments/assets/3e0021b0-3414-4e50-8b4d-94e76664d2dc
 
 ### 🖥️ System Requirements  
-- **Minimum**: GTX 1650  
-- **Recommended**: RTX 2060
+- **Minimum**: RTX 2060
+- **Recommended**: RTX 3050
   
 ---
 
