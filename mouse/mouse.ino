@@ -58,7 +58,6 @@ HIDMouseEvents MouEvents;
 HIDMouseReportParser Mou(&MouEvents);
 HIDBoot<USB_HID_PROTOCOL_MOUSE> HidMouse(&Usb);
 
-int rec = 1;
 String received_code;
 int index1;
 
